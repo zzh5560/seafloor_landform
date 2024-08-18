@@ -34,6 +34,22 @@
 
 **下载链接** ：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456516931682066433&otherId=1456516931803701249
 
+### **IAP全球海洋温度1°格点数据集(IAP Global Ocean Temperature 1° Gridded Dataset)**
+**基本信息** :
+
+时间范围:1940/01-2023/12          水平分辨率:  1° 
+
+空间区域:  全球               垂直分辨率:  0-6000m; 119层
+
+经度范围:  180°W~180°E         时间分辨率:  逐月
+
+纬度范围:  90°S~90°N          存储格式:  NetCDF
+
+要素信息:  温度               关键词:  温度;全球 
+
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/IAP%20temp-1705313270219.png)
+**下载链接** ：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1746836580808540162&otherId=1746836581001478146
+
 #### **全球0.5度海洋温度格点数据产品(Global ocean temperature grid data product with 0.5-degree spatial resolution)**
 
 **数据集摘要**：全球0.5度海洋温度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括XBT, CTD, Argo, Bottle, MBT, Glider, mooring等观测仪器。该数据应用了大气所提出的XBT数据偏差订正方案（CH14方案）对历史XBT数据进行偏差订正。同时，使用了大气所提出的插值方法（Mapping：改进的集合最优插值）对数据进行空间插值，该方法利用CMIP5多模式的历史模拟和高分辨率样本提供动力集合样本。
@@ -221,9 +237,13 @@
 |                          数据集名称                          |                          数据集简介                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [全球0.5度海洋盐度格点数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456516931682066433&otherId=1456516931803701249) | 全球0.5度海洋盐度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括CTD, Argo, Bottle, Glider, mooring等观测仪器。 |
+| [IAP全球海洋温度1°格点数据集](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1746836580808540162&otherId=1746836581001478146) | 该数据集的原始数据为来自全球海洋数据库（WOD）中的所有现场观测数据 |
 | [全球0.5度海洋温度格点数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1456577680076988418&otherId=1456577680144097281) | 全球0.5度海洋温度数据集的原始数据来自全球海洋数据库（WOD）中的所有现场观测数据，包括XBT, CTD, Argo, Bottle, MBT, Glider, mooring等观测仪器。 |
 | [全球0.1度高分辨率海洋环流模式HYCOM数据产品](http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1777794551860174850&otherId=1777794551939866626) | 该数据集是基于HYCOM2.3.01高分辨率准全球海洋模式，对全球温度、盐度、环流的模拟结果。该模式的空间范围为75°S-75°N，纬向与经向分辨率均为0.1°，垂向50层，时间分辨率为30日平均。 |
-| [Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/) | 该数据集提供了自2010年以来的全球海表盐度（Sea Surface Salinity, SSS）的近实时观测数据，分辨率为0.25°。数据来源于欧洲航天局（ESA）的微波辐射成像卫星MIRAS（Microwave Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。 |                              
+
+| [Sea Surface Salinity, Miras SMOS, Near Real-Time, Global 0.25°, 2010-present, 3 Day Composite](https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/) | 该数据集提供了自2010年以来的全球海表盐度（Sea Surface Salinity, SSS）的近实时观测数据，分辨率为0.25°。数据来源于欧洲航天局（ESA）的微波辐射成像卫星MIRAS（Microwave Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。 |
+Imaging Radiometer with Aperture Synthesis），该卫星是土壤湿度和海洋盐度（SMOS, Soil Moisture and Ocean Salinity）任务的一部分。 |                              
+
 
 ### 海洋地质数据集下载
 
