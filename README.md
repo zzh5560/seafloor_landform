@@ -86,30 +86,6 @@
 
 **下载链接**：https://coastwatch.pfeg.noaa.gov/erddap/zh-CN/files/coastwatchSMOSv662SSS3day/2023/
 
-### 海洋气象数据的调研
-
-#### 中国近海台风路径集合数据集（A dataset of typhoon tracks in offshore China）
-
-**数据集摘要**：1945-2023年度，中国近海台风路径数据集，包含每个台风的真实路径信息、台风强度、气压、中心风速、移动速度、移动方向。
-
-**基本信息**：
-
-时间范围：1944/12-2023/12		水平分辨率：-
-
-空间范围：中国近海			     垂直分辨率：-
-
-经度范围：100°E~180°E		      时间分辨率：6小时
-
-纬度范围：0°N~40°N  			  储存格式：csv
-
-要素信息：台风路径信息、台风强度、气压、移动速度、移动方向
-
-关键词：台风路径信息；气压；中心风速；中国近海；物理海洋
-
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/Snipaste_2021-08-04_10-11-17-1628047390898.png)
-
-**下载地址**：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1422759994058625025&otherId=1422760211214520321
-
 ### 海洋地质数据的调研
 
 #### **ETOPO1全球地形模型** 
