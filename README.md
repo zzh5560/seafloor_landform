@@ -72,7 +72,7 @@
 
 要素信息：温度；盐度；海流			关键词：海流；模式；全球；高分辨率；温度
 
-![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/Fig1a-new-1712694428181.png)
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240818103408.png)
 
 **下载链接**：http://msdc.qdio.ac.cn/data/metadata-special-detail?id=1777794551860174850&otherId=1777794551939866626
 
