@@ -102,6 +102,20 @@
 
 ### 海洋地质数据的调研
 
+#### **GEBCO海洋数据** 
+
+**数据集摘要**GEBCO数据的全称是General Bathymetric Chart of the Oceans (全球海洋通用水深数据) ，是由国际海道测量组织 (IHO) 和政府间海洋学委员会 (IOC) 联合发布的最全面的世界大洋海底地形数据，也是当今海洋模式中最常用的海洋水深数据之一。 GEBCO的数据主要来源于多波束声呐测深、卫星测高和其他海洋测量技术。这些数据经过处理和整合，生成了详细的海底地形图。
+
+**基本信息**
+
+- **分辨率**：GEBCO提供的地形数据分辨率高达30米。
+- **覆盖范围**：全球海洋，包括深海和沿海区域。
+- **数据格式**：NetCDF、GeoTIFF等多种格式，便于不同应用场景使用。
+
+![](https://cdn.jsdelivr.net/gh/zzh5560/Image-hosting-service/img/20240819193559.png)
+
+**数据下载**：https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=3&did=&dataSetId=86-1
+
 #### **ETOPO1全球地形模型** 
 
 **数据集摘要**：ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。该模型旨在支持海啸预报、建模和预警，以及海洋环流建模和地球可视化。当前版本ETOPO 2022有冰面和基岩版本，描绘了覆盖格陵兰岛和南极洲的冰盖顶层，或下面的基岩。
@@ -246,6 +260,7 @@
 
 |                          数据集名称                          |                          数据集简介                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [GEBCO海洋数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=3&did=&dataSetId=86-1) | 数据来源于全球海陆数据库（GEBCO），全球海陆栅格地形数据，数据分辨率为30″，约为900m，数据公布时间为2014年。 |
 | [ETOPO全球地势模型](https://www.ncei.noaa.gov/products/etopo-global-relief-model) | ETOPO全球地势模型整合了来自区域和全球数据集的地形、测深和海岸线数据，以实现地球表面地球物理特征的全面、高分辨率渲染。 |
 | [多金属结核主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?type=1&did=&dataSetId=30) | 数据量共计1018站,2551个样品，空间范围覆盖全球大部分海域（-180°～180°E，-65.62°～66.68°N），数据要素项包括Mn、Fe、Co、Ni、Cu、Zn、Pb、Al、Si等元素百分含量。 |
 | [富钴结壳主量元素数据](https://mds.nmdis.org.cn/pages/dataViewDetail.html?dataSetId=21) | 数据量共计1203站,3286个样品，空间范围覆盖全球大部分海域（-180°～180°E，-64.18°～56.17°N），数据要素项包括Cu、Ni、Fe、Co、Si、Pb、Al、Mn、Zn等元素百分含量。 |
