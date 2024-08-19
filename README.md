@@ -62,7 +62,7 @@
 
 要素信息:  温度; 全球; 全球变化       关键词:  Tempreture; GLOBAL; GLOB
 
-![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/global-temperature-1621388489635.png)
+![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/global-salinity-1621388480232.png)
 
 **下载链接** : http://msdc.qdio.ac.cn/data/metadata-special-detail?id=9&otherId=3
 
