@@ -52,12 +52,14 @@
 
 ### **全球海洋盐度数据集(Global Ocean Salinity Dataset)**
 
-时间范围:  1940/01-2023/09     水平分辨率:  1°×1°
-空间区域:  全球             垂直分辨率:  海洋上层0-2000米，共41层
-经度范围:  180°W~180°E        时间分辨率:  monthly Average
-纬度范围:  90°S~90°N          存储格式:  nc
-要素信息:  温度; 全球; 全球变化     关键词:  Tempreture; GLOBAL; GLOB
+时间范围:  1940/01-2023/09          水平分辨率:  1°×1°
+空间区域:  全球                  垂直分辨率:  海洋上层0-2000米，共41层
+经度范围:  180°W~180°E             时间分辨率:  monthly Average
+纬度范围:  90°S~90°N              存储格式:  nc
+要素信息:  温度; 全球; 全球变化       关键词:  Tempreture; GLOBAL; GLOB
+
 ![](https://cdn.jsdelivr.net/gh/lz-GitHub125/1/test/global-temperature-1621388489635.png)
+
 **下载链接** : http://msdc.qdio.ac.cn/data/metadata-special-detail?id=9&otherId=3
 
 
